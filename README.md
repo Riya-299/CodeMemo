@@ -26,7 +26,7 @@ I really enjoyed working with **Redux Toolkit** in this project. It made state m
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/Rounak87/CodeMemo
+git clone https://github.com/Riya-299/CodeMemo
 cd CodeeMemo
 npm install
 ```
